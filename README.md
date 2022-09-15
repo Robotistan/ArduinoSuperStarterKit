@@ -41,12 +41,11 @@ Now you will be able to make electronic projects that will impress yourself and 
 
 <img src="https://user-images.githubusercontent.com/112697142/190417768-77711793-20f7-445f-897a-013c4b4a2079.jpg" width=55% height=55%>
 
-To purchase, please click [here](https://shop.robotistan.com/products/electronic-super-starter-kit-suitable-for-maker-projects-and-electronics-compatible-with-arduino-super-starter-pack-for-beginners "Heading Link").
+##### To purchase, please click [here](https://shop.robotistan.com/products/electronic-super-starter-kit-suitable-for-maker-projects-and-electronics-compatible-with-arduino-super-starter-pack-for-beginners "Heading Link").
 
 ## Repository Contents
-- ##### [Bricks](https://github.com/Robotistan/PicoBricks/tree/main/Bricks "Heading link")
-- ##### [Documents](https://github.com/Robotistan/PicoBricks/tree/main/Documents "Heading link")
-- ##### [Examples](https://github.com/Robotistan/PicoBricks/tree/main/Examples "Heading link")
+- ##### [Book](https://github.com/Robotistan/ArduinoSuperStarterKit/tree/main/Book "Heading link")
+- ##### [Documents](https://github.com/Robotistan/ArduinoSuperStarterKit/tree/main/Documents "Heading link")
 
 ## Note
 If you have any questions, please contact technical support on our [Robotistan Community](https://community.robotistan.com/).
