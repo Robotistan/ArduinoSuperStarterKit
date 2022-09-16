@@ -1,5 +1,6 @@
 ## LED Lighting With Potentiometer Details
 
+![1](https://user-images.githubusercontent.com/112697142/190623765-6f02d9ca-d07e-44a8-9be3-49869baf8ade.PNG)
 
 
 In this application, you will check the brightness of the LED again according to the value received from the analog pin. In the first LED lighting application, it was possible to send 0V or 5V to the LED as we used a digital output.
