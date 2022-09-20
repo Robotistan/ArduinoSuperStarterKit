@@ -14,11 +14,3 @@
 ##### 12 - LED Control with IR Controller.
 ##### 13 - Making a Digital Meter with Arduino	
 ##### 14 - Servo Motor Control with Motion Sensor (PIR)	
-##### 15 - RGB LED Control with Bluetooth.	
-##### 16 - Making Digital Clocks with Arduino	
-##### 17 - Using Soil Moisture Sensor with Arduino	
-##### 18 - Using Rain Sensor with Arduino.	
-##### 19 - Using Gas Sensor with Arduino.	
-##### 20 - Using RFID Sensor with Arduino	
-##### 21 - Temperature and Humidity Measurement with ESP8266	
-##### 22 - Step Motor Control with ESP8266
