@@ -1,28 +1,28 @@
-#include <LiquidCrystal.h>                              //LCD kütüphanemizi başlatıyoruz.
-int trigPin = 7;                                        //Ultrasonik sensör trig pini değişkeni
-int echoPin = 6;                                        //Ultrasonik sensör echo pini değişkeni
-int sure;                                               //Ses dalgasının gidip gelme süresi değişkeni
-int uzaklik;                                            //Ölçülen uzaklık değeri değişkeni
-int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;   //LCD'nin pin değişkenlerini tanımlıyoruz.
-LiquidCrystal lcd(rs, en, d4, d5, d6, d7);              //LCD'nin pin bağlantılarını ayarlıyoruz.
+#include <LiquidCrystal.h>                              //Running the library
+int trigPin = 7;                                        //Ultrasonic sensor trig pin on 7
+int echoPin = 6;                                        //Ultrasonic sensor echo pin on 6
+int period;                                             //The echo time of the sound wave 
+int distance;                                           //The measured distance 
+int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;   //Defining pin variables of the LCD
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);              //Setting pin connections of the LCD
 
 void setup() {
-  pinMode(trigPin, OUTPUT);                             //trig pinini OUTPUT olarak ayarlıyoruz.
-  pinMode(echoPin,INPUT);                               //echo pinini INPUT olarak ayarlıyoruz.
-  lcd.begin(16, 2);                                     //LCD ekranımızın en-boy oranını ayarlıyoruz.                               
+  pinMode(trigPin, OUTPUT);                             //Sets the trig pin as OUTPUT 
+  pinMode(echoPin,INPUT);                               //Sets the echo pin as INPUT 
+  lcd.begin(16, 2);                                     //Sets aspect ratio of the LCD                               
 }
 void loop() {
-  digitalWrite(trigPin, LOW);                           //Ultrasonik sensör ile ölçüm sekansını başlatıyoruz.
+  digitalWrite(trigPin, LOW);                           //Starts the stage of measurement by ultrasonic sensor
   delayMicroseconds(5);
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
-  sure = pulseIn(echoPin, HIGH, 11600);                 //Ses dalgasının gidip gelme süresini ölçüyoruz.
-  uzaklik= sure*0.0345/2;                               //Ölçülen süre ile uzaklık hesabı yapıyoruz.
-  lcd.clear();                                          //LCD'deki eski yazılar temizlenir.
-  lcd.setCursor(0, 0);                                  //LCD'nin 1. satır 1. sütunundan yazmaya başlıyoruz.      
-  lcd.print("Uzaklik:");                                
-  lcd.setCursor(0, 1);                                  //LCD'nin 2. satır 1. sütunundan yazmaya başlıyoruz.
-  lcd.print(uzaklik);                                   //Uzaklık değerini LCD'ye yazdırıyoruz.
+  period = pulseIn(echoPin, HIGH, 11600);               //Measuring the echo time of sound wave 
+  distance= period*0.0345/2;                            //Calculating the distance by measured time 
+  lcd.clear();                                          //Cleaning the LCD
+  lcd.setCursor(0, 0);                                  //Starts to write at first row and first column.      
+  lcd.print("Distance:");                                
+  lcd.setCursor(0, 1);                                  //Starts to write at second row and first column
+  lcd.print(distance);                                  //Display the distance unit on the LCD
   lcd.print("cm");
 }

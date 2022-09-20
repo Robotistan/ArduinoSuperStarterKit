@@ -1,19 +1,19 @@
-#include <Servo.h>
+#include <Servo.h>                        // Add the servo library.
 
-Servo motor;
+Servo motor;                              // Variable of Servo motor.
 
-int deger;
-int derece;
+int value;                                // Value and degree determine integer. 
+int degree;
 
-void setup() {
+void setup() {                            // Defines the motor
   motor.attach(3);
 
 }
 
 void loop() {
 
-  deger = analogRead(A0);
-  derece = map(deger, 0,1023,0,180);
-  motor.write(derece);
+  value = analogRead(A0);                  // The value defines the analog data that reads from A0
+  degree = map(value, 0,1023,0,180);       // Provides data from 0 to 1023 via analog reading pins
+  motor.write(degree);                     // The servo motor can move between 0 and 180 degrees.
 
 }

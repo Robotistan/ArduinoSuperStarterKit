@@ -1,21 +1,20 @@
-#include <Servo.h>                //Servo kütüphanemizi ekliyoruz.
-
-int pirPin = 8;                   //Sensörü takacağımız pin
-int servoPin = 9;                 //Servoyu takacağımız pin
-int hareket;                      //Sensörden aldığımız veri
-Servo motor;                      //Servo motor değişkeni
+#include <Servo.h>                //Add servo library
+int pirPin = 8;                   //Defines sensor's pin as 8
+int servoPin = 9;                 //Defines servo' pin as 9
+int action;                       //Receives data from sensor
+Servo motor;                      //Variable of Servo motor 
 
 
 void setup() {
-  motor.attach(servoPin);         //Servomuzu 9. pin ile ilişkilendiriyoruz.
-  pinMode(pirPin, INPUT);         //Sensör pinimizi giriş olarak ayarlyoruz.
+  motor.attach(servoPin);         //The servo motor associate with the 9th pin.
+  pinMode(pirPin, INPUT);         //Set the sensor as input.
 
 }
 
 void loop() {
-  hareket = digitalRead(pirPin);  //Sensörden okuma yapıyoruz.
+  action = digitalRead(pirPin);  //Reads digital data from the sensor.
   
-  if(hareket == HIGH){            //Hareketlilik var ise içerideki komutlar uygulanır.
+  if(action == HIGH){            //If action state is high, apply command at below.
     motor.write(150);
     delay(250);
     motor.write(30);
@@ -30,7 +29,7 @@ void loop() {
     delay(250);
     motor.write(90);
   }
-  else{                           //Hareketlilik yok ise içerideki komutlar uygulanır.
+  else{                           //Unless action state is high, apply command at below.
     motor.write(90);
     
   }

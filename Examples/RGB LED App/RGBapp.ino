@@ -1,16 +1,16 @@
-int pot_pin = A0;
-int pot_value = 0;
+int pot_pin = A0;                                   //defines the pot pin as an analog pin (A0)
+int pot_value = 0;                                  //defines the pot value as 0
 
-int red_pin = 9;
-int green_pin = 10;
-int blue_pin = 11;
+int red_pin = 9;                                    //defines red led's pin as 9
+int green_pin = 10;                                 //defines green led's pin as 10
+int blue_pin = 11;                                  //defines blue led's pin as 11
 
-int red_value = 0;
-int green_value = 0;
-int blue_value = 0;
+int red_value = 0;                                  //defines red led's value as 0
+int green_value = 0;                                //defines green led's value as 0
+int blue_value = 0;                                 //defines blue led's value as 0
 
 
-void setup() {
+void setup() {                                      //sets the led pins as output .                
   pinMode(red_pin,OUTPUT);
   pinMode(green_pin,OUTPUT);
   pinMode(blue_pin,OUTPUT);
@@ -18,7 +18,7 @@ void setup() {
 }
 
 void loop() {
-  pot_value = analogRead(pot_pin);
+  pot_value = analogRead(pot_pin);                  //Reads analog data from the pot pin to determine the pot value.
 
   if(pot_value < 341) {
     pot_value = (pot_value*3)/4;
