@@ -39,14 +39,12 @@ Now you will be able to make electronic projects that will impress yourself and 
 - [Tower Pro SG90 RC Mini Servo Motor](https://shop.robotistan.com/products/tower-pro-sg90-rc-mini-servo-motor?_pos=5&_sid=a4a1ec608&_ss=r "Heading Link")
 
 
-<img src="https://user-images.githubusercontent.com/111511331/190397034-c336e5d4-63e4-4c35-b237-603da5859a91.jpg" width="500" height="500">
-
-To purchase, please click [here](https://shop.robotistan.com/products/electronic-super-starter-kit-suitable-for-maker-projects-and-electronics-compatible-with-arduino-super-starter-pack-for-beginners "Heading Link")
+##### To purchase, please click [here](https://shop.robotistan.com/products/electronic-super-starter-kit-suitable-for-maker-projects-and-electronics-compatible-with-arduino-super-starter-pack-for-beginners "Heading Link").
 
 ## Repository Contents
-- ##### [Bricks](https://github.com/Robotistan/PicoBricks/tree/main/Bricks "Heading link")
-- ##### [Documents](https://github.com/Robotistan/PicoBricks/tree/main/Documents "Heading link")
-- ##### [Examples](https://github.com/Robotistan/PicoBricks/tree/main/Examples "Heading link")
+- ##### [Codes](https://github.com/Robotistan/ArduinoSuperStarterKit/tree/main/Codes "Heading link") 
+- ##### [Book](https://github.com/Robotistan/ArduinoSuperStarterKit/tree/main/Book "Heading link")
+- ##### [Documents](https://github.com/Robotistan/ArduinoSuperStarterKit/tree/main/Documents "Heading link")
 
 ## Note
 If you have any questions, please contact technical support on our [Robotistan Community](https://community.robotistan.com/).
