@@ -1,12 +1,10 @@
-## Making a Digital Meter with Arduino
+## Motor Control with Sound
 
-The ultrasonic distance sensor is a device that can send a sound wave and detect the reflected sound wave. LCD is an element that displays characters on the screen according to the data provided. The LCD screen consists of 2 lines and can display 16 characters per line. Each character consists of 5x7 pixels.
-The potentiometer is an adjustable resistor. in this circuit we used the potentiometer as a voltage divider. When the voltage is sent to two different resistors connected in series, voltages proportional to the resistance values on the resistors are obtained. And the potentiometer can be used as a voltage divider. When the potentiometer is turned, the voltage of the middle pin changes. This changing voltage allows adjusting the Contrast of the LCD screen. Let's continue with setting up the circuit.
-
-
-
-After setting up the circuit, let's continue with coding.
+In this example, you will provide motor movement according to the value read by the sound sensor. The sound sensor provides a digital output by measuring the ambient sound level with a microphone. The sensor circuit amplifies the audio signal received from the microphone and converts the analog audio signal into a digital signal according to the threshold level.
+Since the motor draws excessive current, a motor driver board is used in such circuits. The motor drive powers the motor according to the signal it receives from the Arduino. This way you can safely control the motor without damaging Arduino.
+The threshold value of the sound level can be adjusted with the potentiometer on the sound sensor. This adjustment can be made with the help of a screwdriver
 
 
+Let's set up the circuit and then start writing our project code.
 
-![image](https://user-images.githubusercontent.com/111511331/191007226-91a9c3c9-15d4-468b-8752-c37540cf0205.png)
+![sound](https://user-images.githubusercontent.com/111511331/191266510-b4533044-dbac-4793-a0cc-18a97d8194fe.png)
