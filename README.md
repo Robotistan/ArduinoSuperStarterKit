@@ -29,7 +29,7 @@ Now you will be able to make electronic projects that will impress yourself and 
 - [LDR](https://www.robotistan.com/5mm-ldr "Heading Link")
 - [HC-SR04 Ultrasonic Distance Sensor](https://www.robotistan.com/hc-sr04-ultrasonik-mesafe-sensoru "Heading Link")
 - [16x2 LCD Screen - Green on Black](https://shop.robotistan.com/products/16x2-lcd-screen-green-on-black?_pos=1&_sid=25c1e7228&_ss=r "Heading Link")
-- [9V Battery Barrel Converter Cable - 9 V to DC Barrel Adapter](https://shop.robotistan.com/products/9-v-battery-barrel-converter-cable-9-v-to-dc-barrel-adapter?_pos=2&_sid=ffdcd27e9&_ss=r "Heading Link")
+- [9V Battery Barrel Converter Cable - 9V to DC Barrel Adapter](https://shop.robotistan.com/products/9-v-battery-barrel-converter-cable-9-v-to-dc-barrel-adapter?_pos=2&_sid=ffdcd27e9&_ss=r "Heading Link")
 - [9V Battery](https://www.robotistan.com/gp-ultra-9v-pil "Heading Link")
 - [4 Pin Push Button](https://www.robotistan.com/4-pinli-push-buton-siyah-6x6x5mm "Heading Link")
 - [LM35DZ](https://www.robotistan.com/lm35 "Heading Link")
