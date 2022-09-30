@@ -1,5 +1,5 @@
 # Super Starter Kit - Suitable for Maker Projects and Electronics - Compatible with Arduino
-<img src="https://user-images.githubusercontent.com/111511331/191202503-bb9281c2-10ec-4dcd-9388-a5bf73216449.jpg" width="500" height="500">
+![191202503-bb9281c2-10ec-4dcd-9388-a5bf73216449](https://user-images.githubusercontent.com/112697142/193266611-ab69af86-7a8b-4d08-b607-cb94dc138596.jpg)
 
 
 
