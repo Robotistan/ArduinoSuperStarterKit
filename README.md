@@ -9,7 +9,7 @@ Learning Electronic Projects based on Arduino! Super Starter Kit will allow you 
 
 
 ## Project Examples
-Now you will be able to make electronic projects that will impress yourself and your friends! For example ; You can do projects such as “auto parking sensor”, “digital clock”, “remote control applications with smartphone”, “smart door lock system”, “smart weather station”, “motion triggered buzzer alarm” etc. The kit allows you to learn “how to use various motors”, “how various sensors work” and principles of most electronic projects. The kit consists a lot of pieces, including every module and component needed to satisfy your needs.
+Now you will be able to make electronic projects that will impress yourself and your friends! For example ; You can do projects such as “Auto Parking Sensor”, “Digital Clock”, “Remote Control Applications with Smartphone”, “Smart Door Lock System”, “Smart Weather Station”, “Motion Triggered Buzzer Alarm” etc. The kit allows you to learn “How to Use Various Motors”, “How Various Sensors Work” and principles of most electronic projects. The kit consists a lot of pieces, including every module and component needed to satisfy your needs.
 
 ## Package Contents
 
