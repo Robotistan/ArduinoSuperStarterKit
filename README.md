@@ -29,14 +29,14 @@ Now you will be able to make electronic projects that will impress yourself and 
 - [LDR](https://www.robotistan.com/5mm-ldr "Heading Link")
 - [HC-SR04 Ultrasonic Distance Sensor](https://www.robotistan.com/hc-sr04-ultrasonik-mesafe-sensoru "Heading Link")
 - [16x2 LCD Screen - Green on Black](https://shop.robotistan.com/products/16x2-lcd-screen-green-on-black?_pos=1&_sid=25c1e7228&_ss=r "Heading Link")
-- [9 V Battery Barrel Converter Cable - 9 V to DC Barrel Adapter](https://shop.robotistan.com/products/9-v-battery-barrel-converter-cable-9-v-to-dc-barrel-adapter?_pos=2&_sid=ffdcd27e9&_ss=r "Heading Link")
-- [9 V Battery](https://www.robotistan.com/gp-ultra-9v-pil "Heading Link")
+- [9V Battery Barrel Converter Cable - 9 V to DC Barrel Adapter](https://shop.robotistan.com/products/9-v-battery-barrel-converter-cable-9-v-to-dc-barrel-adapter?_pos=2&_sid=ffdcd27e9&_ss=r "Heading Link")
+- [9V Battery](https://www.robotistan.com/gp-ultra-9v-pil "Heading Link")
 - [4 Pin Push Button](https://www.robotistan.com/4-pinli-push-buton-siyah-6x6x5mm "Heading Link")
 - [LM35DZ](https://www.robotistan.com/lm35 "Heading Link")
 - [Buzzer](https://www.robotistan.com/buzzer "Heading Link")
 - [IR Receiver Module Wireless Remote Control ](https://www.robotistan.com/ir-alici-verici-kumanda-seti-ir-receiver-module-wireless-remote-control-k "Heading Link")
 - [Sound Sensor Card (4-pin)](https://shop.robotistan.com/products/sound-sensor-4pin "Heading Link")
-- [6V 250 Rpm Motor](https://shop.robotistan.com/products/6v-250-rpm-motor-and-wheel-set?_pos=2&_sid=a4a1ec608&_ss=r "Heading Link")
+- [6V 250 RPM Motor](https://shop.robotistan.com/products/6v-250-rpm-motor-and-wheel-set?_pos=2&_sid=a4a1ec608&_ss=r "Heading Link")
 - [Tower Pro SG90 RC Mini Servo Motor](https://shop.robotistan.com/products/tower-pro-sg90-rc-mini-servo-motor?_pos=5&_sid=a4a1ec608&_ss=r "Heading Link")
 
 
