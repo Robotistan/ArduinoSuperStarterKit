@@ -7,11 +7,11 @@
 
 
 ## [Arduino Super Starter Kit](https://shop.robotistan.com/products/electronic-super-starter-kit-suitable-for-maker-projects-and-electronics-compatible-with-arduino-super-starter-pack-for-beginners "Heading link")
-Learning Electronic Projects based on Arduino! Super Starter Kit will allow you to learn electronic programming by doing enjoyable projects. With the applications in the Arduino Compatible book which comes with the kit, will help you to carry your basic electronics knowledge to an advanced level seamlesly.
+Learning Electronic Projects based on Arduino! Super Starter Kit will allow you to learn electronic programming by doing enjoyable projects. With the applications in the Arduino Compatible book which comes with the kit, will help you to carry your basic electronics knowledge to an advanced level.
 
 
 ## Project Examples
-Now you will be able to make electronic projects that will impress yourself and your friends! For example ; You can do projects such as “Auto Parking Sensor”, “Digital Clock”, “Remote Control Applications with Smartphone”, “Smart Door Lock System”, “Smart Weather Station”, “Motion Triggered Buzzer Alarm” etc. The kit allows you to learn “How to Use Various Motors”, “How Various Sensors Work” and principles of most electronic projects. The kit consists a lot of pieces, including every module and component needed to satisfy your needs.
+Now you will be able to make electronic projects that will impress yourself and your friends! For example; You can do projects such as “Auto Parking Sensor”, “Digital Clock”, “Remote Control Applications with Smartphone”, “Smart Door Lock System”, “Smart Weather Station”, “Motion Triggered Buzzer Alarm” etc. The kit allows you to learn “How to Use Various Motors”, “How Various Sensors Work” and the principles of most electronic projects. The kit consists of a lot of pieces, including every module and component needed to satisfy your needs.
 
 ## Package Contents
 
