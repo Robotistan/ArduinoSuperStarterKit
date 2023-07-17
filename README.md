@@ -1,6 +1,8 @@
 # Super Starter Kit - Suitable for Maker Projects and Electronics - Compatible with Arduino
-![191202503-bb9281c2-10ec-4dcd-9388-a5bf73216449](https://user-images.githubusercontent.com/112697142/193266611-ab69af86-7a8b-4d08-b607-cb94dc138596.jpg)
 
+<p align="center">
+  <img src="https://github.com/Robotistan/ArduinoSuperStarterKit/assets/112697142/2ee79d6f-72f8-483c-80d5-f4bd0be4e79a" alt="animated" />
+</p>
 
 
 
